@@ -1,0 +1,8 @@
+[24-Sep-2017 19:57:41 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/varti8am/public_html/kemei.in/auction/admin/inc/lock.php on line 16
+[24-Sep-2017 19:57:41 Etc/GMT] PHP Notice:  Undefined variable: user in /home/varti8am/public_html/kemei.in/auction/admin/models/class.user.php on line 48
+[24-Sep-2017 19:58:23 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 91
+[24-Sep-2017 19:58:23 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 125
+[24-Sep-2017 19:58:46 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 91
+[24-Sep-2017 19:58:46 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 125
+[24-Sep-2017 19:59:38 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 91
+[24-Sep-2017 19:59:38 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/varti8am/public_html/kemei.in/auction/admin/models/class.ezSQLMysql.php on line 125
